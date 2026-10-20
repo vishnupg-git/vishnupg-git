@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Viki-ii
+          github_user_name: vishnupg-git
           outputs: |
             dist/github-contribution-grid-snake.svg
 
