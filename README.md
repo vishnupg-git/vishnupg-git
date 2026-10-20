@@ -53,7 +53,7 @@ A Django-based workflow system designed to manage student academic projects from
 * Django Admin
 * GitHub Actions CI
 
-<a href="https://github.com/Viki-ii/Project-Hub">
+<a href="https://github.com/vishnupg-git/Project-Hub">
   View Repository →
 </a>
 
@@ -76,7 +76,7 @@ A Python-based computer-vision application that monitors eye activity through a 
 * Audio alarm system
 * FPS monitoring
 
-<a href="https://github.com/Viki-ii/study-alert-eye-detector">
+<a href="https://github.com/vishnupg-git/study-alert-eye-detector">
   View Repository →
 </a>
 
@@ -101,7 +101,7 @@ A responsive web application that generates personalized meal plans based on use
 * Vegetarian & non-vegetarian plans
 * Automatic grocery list
 
-<a href="https://github.com/Viki-ii/Fat-loss-diet-plan-creator">
+<a href="https://github.com/vishnupg-git/Fat-loss-diet-plan-creator">
   View Repository →
 </a>
 
@@ -113,7 +113,7 @@ A responsive web application that generates personalized meal plans based on use
 
 I'm continuously building and experimenting with new ideas while improving my skills in web development, programming and problem solving.
 
-<a href="https://github.com/Viki-ii?tab=repositories">
+<a href="https://github.com/vishnupg-git?tab=repositories">
   Explore All Repositories →
 </a>
 
@@ -144,12 +144,12 @@ I'm continuously building and experimenting with new ideas while improving my sk
 
 <p align="center">
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
+    src="https://github-stats-extended.vercel.app/api?username=vishnupg-git&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
     height="180"
     alt="GitHub Statistics"
   />
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishnupg-git&layout=compact&hide_border=true&theme=transparent" 
     height="180"
     alt="Top Languages"
   />
@@ -168,7 +168,7 @@ I'm continuously building and experimenting with new ideas while improving my sk
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Viki-ii">
+  <a href="https://github.com/vishnupg-git">
     <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
